@@ -1,5 +1,8 @@
 # NLP Operations and Interactive UI with Streamlit
 
+![image](https://github.com/praveendecode/Textwiz/assets/95226524/916abc3d-f61c-4a3c-a04c-a6ab7c3db7ef)
+
+
 # Overview:
 - This project offers a streamlined user interface to perform various NLP tasks, including Sentiment Analysis, Language Translation, Speech Synthesis, Summarization, Table Question Answering, and Question Answering.
 
@@ -33,3 +36,5 @@
 - This project offers an accessible and efficient means of performing various NLP tasks through an interactive Streamlit UI. It facilitates Sentiment Analysis, Language Translation, Speech Synthesis, Summarization, Table Question Answering, and Question 
 Answering, making it a versatile tool for language processing and data extraction tasks.
 User
+
+## Connect Through LinkedIN For Doubts !!!
