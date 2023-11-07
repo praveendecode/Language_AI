@@ -6,7 +6,7 @@
 
 
 # Overview:
-- This project offers a streamlined user interface to perform various NLP tasks, including Sentiment Analysis, Language Translation, Speech Synthesis, Summarization, Table Question Answering, and Question Answering.
+- This project offers a streamlined user interface to perform various NLP tasks, including Sentiment Analysis, Language Translation, Speech Synthesis, Summarization, Table Question Answering, and Question Answering and utlisized pre-trained model in hugging-face
 
 # Main Features of Project:
 
