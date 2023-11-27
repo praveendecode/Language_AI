@@ -37,6 +37,6 @@
 # Conclusion:
 - This project offers an accessible and efficient means of performing various NLP tasks through an interactive Streamlit UI. It facilitates Sentiment Analysis, Language Translation, Speech Synthesis, Summarization, Table Question Answering, and Question 
 Answering, making it a versatile tool for language processing and data extraction tasks.
-User
+
 
 ## Connect Through LinkedIN For Doubts !!!
