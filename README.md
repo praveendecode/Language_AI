@@ -11,10 +11,15 @@
 # Main Features of Project:
 
   - Sentiment Analysis: Analyze text sentiment to gauge opinions.
+    
   - Language Translator: Translate text between languages.
+    
   - Speech Synthesis: Convert text to speech.
+    
   - Summarization: Automatically summarize text content.
+    
   - Table Question Answering System: Extract answers from tabular data.
+    
   - Question Answering System: Retrieve answers to user queries.
 
 # Process Steps:
@@ -33,6 +38,34 @@
 
   - Interactive UI with Streamlit:
         Utilized the Streamlit web framework to create a user-friendly and interactive interface for seamless NLP operations.
+
+# Technical Skills :
+
+  - Natural Language Processing (NLP)
+    
+  - Streamlit Web Framework
+    
+  - Hugging Face Models
+    
+  - Sentiment Analysis
+    
+  - Language Translation
+    
+  - Speech Synthesis
+    
+  - Text Summarization
+    
+  - Table Question Answering
+    
+  - QA Systems
+
+# Tools Covered :
+
+  - Python
+  - Hugging Face
+  - Streamlit web application
+  - Google Translator API
+  - Google Text to Speech
 
 # Conclusion:
 - This project offers an accessible and efficient means of performing various NLP tasks through an interactive Streamlit UI. It facilitates Sentiment Analysis, Language Translation, Speech Synthesis, Summarization, Table Question Answering, and Question 
