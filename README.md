@@ -67,6 +67,20 @@
   - Google Translator API
   - Google Text to Speech
 
+# Key Achievements:
+
+  - Implemented Sentiment Analysis with accurate sentiment scoring for text analysis.
+    
+  - Developed Language Translator for smooth translation between various languages.
+    
+  - Engineered Speech Synthesis module for converting text to natural and clear speech.
+    
+  - Orchestrated Summarization feature for automatic summarization of text content.
+    
+  - Created Table QA system for extracting answers from tabular data.
+
+  - Implemented QA system for retrieving relevant answers to user queries.
+
 # Conclusion:
 - This project offers an accessible and efficient means of performing various NLP tasks through an interactive Streamlit UI. It facilitates Sentiment Analysis, Language Translation, Speech Synthesis, Summarization, Table Question Answering, and Question 
 Answering, making it a versatile tool for language processing and data extraction tasks.
