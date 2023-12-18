@@ -356,7 +356,7 @@ class language_ai :
             col2.write("")
 
             API_URL = ""
-            headers = {"Authorization": "Bearer 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"}
+            headers = {"Authorization": "Bearer ---"} #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
 
             def query(payload):
                 response = requests.post(API_URL, headers=headers, json=payload)
@@ -405,7 +405,7 @@ class language_ai :
             col2.write("")
 
             API_URL = ""
-            headers = {"Authorization": "Bearer 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"}
+            headers = {"Authorization": "Bearer "} # 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
 
             def query(payload):
                 response = requests.post(API_URL, headers=headers, json=payload)
@@ -460,7 +460,7 @@ class language_ai :
             col2.write("")
             col2.write("")
             API_URL = ""
-            headers = {"Authorization": "Bearer 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"}
+            headers = {"Authorization": "Bearer "} # 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
 
             def query(payload):
                 response = requests.post(API_URL, headers=headers, json=payload)
