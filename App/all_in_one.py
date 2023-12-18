@@ -355,7 +355,7 @@ class language_ai :
             col2.write("")
             col2.write("")
 
-            API_URL = "https://api-inference.huggingface.co/models/google/pegasus-cnn_dailymail"
+            API_URL = ""
             headers = {"Authorization": "Bearer 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"}
 
             def query(payload):
@@ -404,7 +404,7 @@ class language_ai :
             col2.write("")
             col2.write("")
 
-            API_URL = "https://api-inference.huggingface.co/models/microsoft/tapex-large-finetuned-wtq"
+            API_URL = ""
             headers = {"Authorization": "Bearer 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"}
 
             def query(payload):
@@ -459,7 +459,7 @@ class language_ai :
             col2.write("")
             col2.write("")
             col2.write("")
-            API_URL = "https://api-inference.huggingface.co/models/deepset/roberta-base-squad2"
+            API_URL = ""
             headers = {"Authorization": "Bearer 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"}
 
             def query(payload):
