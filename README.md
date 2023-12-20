@@ -47,7 +47,9 @@
   - Streamlit Web Framework
     
   - Hugging Face Models
-    
+
+  - Hugging Face Spaces
+  
   - Sentiment Analysis
     
   - Language Translation
