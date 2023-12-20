@@ -39,6 +39,7 @@
   - Interactive UI with Streamlit:
         Utilized the Streamlit web framework to create a user-friendly and interactive interface for seamless NLP operations.
 
+
 # Technical Skills :
 
   - Natural Language Processing (NLP)
@@ -80,6 +81,8 @@
   - Created Table QA system for extracting answers from tabular data.
 
   - Implemented QA system for retrieving relevant answers to user queries.
+
+  - Deployed a Streamlit application effortlessly on Hugging Face Spaces, ensuring a smooth and efficient deployment experience for users.
 
 # Conclusion:
 - This project offers an accessible and efficient means of performing various NLP tasks through an interactive Streamlit UI. It facilitates Sentiment Analysis, Language Translation, Speech Synthesis, Summarization, Table Question Answering, and Question 
