@@ -10,7 +10,7 @@
 
 # Main Features of Project:
 
-  - Sentiment Analysis: Analyze text sentiment to gauge opinions.
+  - Sentiment Analysis: Analyze text sentiment to gauge opinions. 
     
   - Language Translator: Translate text between languages.
     
