@@ -2,7 +2,7 @@
 
   ### NLP Operations With Interactive UI Using Streamlit and Hugging Face Models
 
-![image](https://github.com/praveendecode/Textwiz/assets/95226524/916abc3d-f61c-4a3c-a04c-a6ab7c3db7ef)
+![image](https://github.com/praveendecode/Textwiz/assets/95226524/916abc3d-f61c-4a3c-a04c-a6ab7c3db7ef) 
 
 
 # Overview:
