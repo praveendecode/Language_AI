@@ -1,4 +1,4 @@
-# Language AI
+# Language AI (LLM)
 
   ### NLP Operations With Interactive UI Using Streamlit and Hugging Face Models
 
