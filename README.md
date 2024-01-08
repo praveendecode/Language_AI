@@ -17,7 +17,7 @@
   - Speech Synthesis: Convert text to speech.
     
   - Summarization: Automatically summarize text content.
-    
+     
   - Table Question Answering System: Extract answers from tabular data.
     
   - Question Answering System: Retrieve answers to user queries.
